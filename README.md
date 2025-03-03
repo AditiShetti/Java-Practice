@@ -35,7 +35,8 @@ Laptop discount calculator
 Library book return fine calculator  
 Movie ratings  
 Students percentage calculator  
-Grade encryptor  
+Grade encryptor
+Weight Converter  
     
 
 I plan to keep adding more. 😊😊  
