@@ -1,4 +1,4 @@
-//Bookfair book discounts
+// Calculate Bookfair discounts 
 import java.util.*;
 class BookFair {
     Scanner in = new Scanner(System.in);
