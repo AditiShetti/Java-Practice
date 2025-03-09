@@ -1,4 +1,4 @@
-//MovieMagic ratings
+//MovieMagic ratings given to a movie.
 import java.util.*;
 class MovieMagic {
     Scanner in = new Scanner(System.in);
