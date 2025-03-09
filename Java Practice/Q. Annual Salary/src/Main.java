@@ -1,4 +1,4 @@
-//Calculate Annual Salary using Class and Object
+//Calculate Annual Salary of a Teacher  using Class and Object
 import java.util.*;
 
 class Salary {
