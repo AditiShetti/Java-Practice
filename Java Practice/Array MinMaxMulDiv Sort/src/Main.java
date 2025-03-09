@@ -1,4 +1,4 @@
-//Array miniun and maximum element.
+//Array minimun and maximum element.
 // Check if array is sorted
 import java.util.Scanner;
 public class Main {
