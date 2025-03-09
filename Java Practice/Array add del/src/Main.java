@@ -39,35 +39,35 @@ public class Main {
 
 
 ////Deleting element from array
-//        int a2[] = new int[50];
-//
-//        System.out.print("Enter the size of array you want: ");
-//        int size= in.nextInt();
-//
-//        int i=0,pos=-1;
-//        for ( i=0;i<size;i++) {   //Enter elements of array
-//            System.out.print(" Enter elements of array: ");
-//            a2[i] = in.nextInt();
-//        }
-//
-//        System.out.print("Enter element to delete: ");
-//        int x=in.nextInt();
-//
-//        for (i=0;i<size;i++)
-//            if (a2[i]==x) {
-//                pos = i;
-//                break;
-//            }
-//
-//        if(pos==-1)
-//            System.out.println("Element not found in array.");
-//        else {
-//            for (i = pos; i < size-1; i++)
-//                a2[i] = a2[i + 1];
-//            size--;
-//        }
-//
-//        for (i=0;i<size;i++)  //print array
-//            System.out.print(a2[i]+" ");
+        int a2[] = new int[50];
+    
+        System.out.print("Enter the size of array you want: ");
+        int size= in.nextInt();
+
+        int i=0,pos=-1;
+        for ( i=0;i<size;i++) {   //Enter elements of array
+            System.out.print(" Enter elements of array: ");
+            a2[i] = in.nextInt();
+        }
+
+        System.out.print("Enter element to delete: ");
+        int x=in.nextInt();
+
+        for (i=0;i<size;i++)
+            if (a2[i]==x) {
+                pos = i;
+                break;
+            }
+
+        if(pos==-1)
+            System.out.println("Element not found in array.");
+        else {
+            for (i = pos; i < size-1; i++)
+                a2[i] = a2[i + 1];
+            size--;
+        }
+
+        for (i=0;i<size;i++)  //print array
+            System.out.print(a2[i]+" ");
     }
 }
