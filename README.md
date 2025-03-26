@@ -1,6 +1,6 @@
 #   Java Practice Questions
 
-Java is a compiled language. It is platform independent.  
+Java is a high-level Object Oriented programming(OOP) language . It is a compiled language. It is platform independent.  
 
 It needs a JDK(Java Development Kit) which has the JRE(Java Runtime Environment) and JVM(Java Virtual Machine).
 1. The **JDK** provides the necessary libraries along with compiler, debugger,etc. The JVM and JRE are included in JDK. 
