@@ -8,6 +8,10 @@ It needs a **JDK(Java Development Kit)** which has the **JRE(Java Runtime Enviro
 2. The **JRE** has the environment necessary to run the files. It has the JVM.
 3. The **JVM** executes the Java bytecode which makes Java platform independent.
 
+![Java run](https://github.com/user-attachments/assets/876d3de0-1785-446c-b9d2-2823b9117f45)
+
+
+
 This repository has Java practice programs.    
 
 
