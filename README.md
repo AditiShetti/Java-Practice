@@ -66,11 +66,11 @@ Eg:
 **3. Inheritance:**  
 The child class can inherit behaviours/properties from the parent class.  
 Types of Inheritance(4):
-                        Multi-level Inheritance (grandparents,parents,child) ,
-                        Single level Inheritance(parent- child), 
-                        Multiple Inheritance(2 parents- 1 child) , 
-                        Hierarchical Inheritance (1 parent - multiple children), 
-                        Hybrid level Combination of 2 or more inheritance types.      
+                        Multi-level Inheritance (grandparents,parents,child) ,  
+                        Single level Inheritance(parent- child),   
+                        Multiple Inheritance(2 parents- 1 child) ,   
+                        Hierarchical Inheritance (1 parent - multiple children),   
+                        Hybrid level Combination of 2 or more inheritance types.        
 Eg: Vehicles -> Car -> BMW and  Vehicles -> Bike -> Hayabusa  
 
 
