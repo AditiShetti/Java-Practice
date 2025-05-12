@@ -55,7 +55,7 @@ Weight Converter
 **1. Abstraction:**  
 This means to show only the content which is necessary. It hides the implementation details and shows only the essential functionalities or features to the user.  
 Types: Data Abstraction , Process Abstraction.  
-Eg: When a user uses the ATM to withdraw money. The whole process behind in the machine is not known , only the final outcom i.e. the money is received.  
+Eg: When a user uses the ATM to withdraw money. The whole process behind in the machine is not known , only the final outcome i.e. the money is received.  
 
 
 **2. Encapsulation:**  
@@ -65,7 +65,12 @@ Eg:
 
 **3. Inheritance:**  
 The child class can inherit behaviours/properties from the parent class.  
-Types of Inheritance(4): Multi-level Inheritance (grandparents,parents,child) , Single level Inheritance(parent- child), Multiple Inheritance(2 parents- 1 child) , hierarchical Inheritance (1 parent - multiple children), Hybrid level Combination of 2 or more inheritance types.    
+Types of Inheritance(4):
+                        Multi-level Inheritance (grandparents,parents,child) ,
+                        Single level Inheritance(parent- child), 
+                        Multiple Inheritance(2 parents- 1 child) , 
+                        Hierarchical Inheritance (1 parent - multiple children), 
+                        Hybrid level Combination of 2 or more inheritance types.      
 Eg: Vehicles -> Car -> BMW and  Vehicles -> Bike -> Hayabusa  
 
 
